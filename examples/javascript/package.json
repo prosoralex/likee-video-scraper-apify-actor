@@ -1,0 +1,8 @@
+{
+  "name": "likee-video-scraper-example",
+  "private": true,
+  "type": "module",
+  "description": "Client example for the Likee Scraper - Video & Profile Data Apify Actor",
+  "scripts": { "start": "node example.mjs" },
+  "dependencies": { "apify-client": "^2.9.0" }
+}
